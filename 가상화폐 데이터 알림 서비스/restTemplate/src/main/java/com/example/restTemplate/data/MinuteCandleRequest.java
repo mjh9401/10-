@@ -1,4 +1,4 @@
-package com.example.restTemplate.controller;
+package com.example.restTemplate.data;
 
 import lombok.Getter;
 import lombok.Setter;

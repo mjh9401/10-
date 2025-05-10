@@ -1,6 +1,6 @@
 package com.example.restTemplate.service;
 
-import com.example.restTemplate.controller.MinuteCandleRequest;
+import com.example.restTemplate.data.MinuteCandleRequest;
 import com.example.restTemplate.data.MinuteCandle;
 import com.example.restTemplate.http.HttpClient;
 import com.example.restTemplate.http.UpbitFeignClient;

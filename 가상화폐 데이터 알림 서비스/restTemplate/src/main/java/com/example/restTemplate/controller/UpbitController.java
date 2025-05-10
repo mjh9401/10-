@@ -1,6 +1,7 @@
 package com.example.restTemplate.controller;
 
 import com.example.restTemplate.data.MinuteCandle;
+import com.example.restTemplate.data.MinuteCandleRequest;
 import com.example.restTemplate.service.UpbitService;
 import com.example.restTemplate.validation.MinuteValidater;
 import com.fasterxml.jackson.core.JsonProcessingException;

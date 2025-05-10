@@ -1,4 +1,4 @@
-package com.example.restTemplate.controller;
+package com.example.restTemplate.data;
 
 import com.example.restTemplate.exception.UpbitClientException;
 import org.springframework.http.HttpStatus;
